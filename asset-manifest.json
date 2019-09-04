@@ -1,13 +1,13 @@
 {
-  "main.css": "/react-lights-out-game-final/static/css/main.894ffe26.chunk.css",
-  "main.js": "/react-lights-out-game-final/static/js/main.06d73883.chunk.js",
-  "main.js.map": "/react-lights-out-game-final/static/js/main.06d73883.chunk.js.map",
-  "static/js/1.8832ac64.chunk.js": "/react-lights-out-game-final/static/js/1.8832ac64.chunk.js",
-  "static/js/1.8832ac64.chunk.js.map": "/react-lights-out-game-final/static/js/1.8832ac64.chunk.js.map",
-  "runtime~main.js": "/react-lights-out-game-final/static/js/runtime~main.23912a48.js",
-  "runtime~main.js.map": "/react-lights-out-game-final/static/js/runtime~main.23912a48.js.map",
-  "static/css/main.894ffe26.chunk.css.map": "/react-lights-out-game-final/static/css/main.894ffe26.chunk.css.map",
-  "index.html": "/react-lights-out-game-final/index.html",
-  "precache-manifest.75e2587fa573ccd98209822374c121ca.js": "/react-lights-out-game-final/precache-manifest.75e2587fa573ccd98209822374c121ca.js",
-  "service-worker.js": "/react-lights-out-game-final/service-worker.js"
+  "main.css": "/react-lights-out-game-final.git/static/css/main.894ffe26.chunk.css",
+  "main.js": "/react-lights-out-game-final.git/static/js/main.b8aa1531.chunk.js",
+  "main.js.map": "/react-lights-out-game-final.git/static/js/main.b8aa1531.chunk.js.map",
+  "static/js/1.8832ac64.chunk.js": "/react-lights-out-game-final.git/static/js/1.8832ac64.chunk.js",
+  "static/js/1.8832ac64.chunk.js.map": "/react-lights-out-game-final.git/static/js/1.8832ac64.chunk.js.map",
+  "runtime~main.js": "/react-lights-out-game-final.git/static/js/runtime~main.c00fdc34.js",
+  "runtime~main.js.map": "/react-lights-out-game-final.git/static/js/runtime~main.c00fdc34.js.map",
+  "static/css/main.894ffe26.chunk.css.map": "/react-lights-out-game-final.git/static/css/main.894ffe26.chunk.css.map",
+  "index.html": "/react-lights-out-game-final.git/index.html",
+  "precache-manifest.c173816c64e9a94b8c1264e9a01e6860.js": "/react-lights-out-game-final.git/precache-manifest.c173816c64e9a94b8c1264e9a01e6860.js",
+  "service-worker.js": "/react-lights-out-game-final.git/service-worker.js"
 }
