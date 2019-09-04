@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/react-lights-out-game-final/precache-manifest.a0a115ecec8e4596da886953ab8ea139.js"
+  "/react-lights-out-game-final/precache-manifest.75e2587fa573ccd98209822374c121ca.js"
 );
 
 workbox.clientsClaim();
